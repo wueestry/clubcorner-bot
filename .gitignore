@@ -1,0 +1,4 @@
+*.pyc
+app/keys.json
+.vscode/*
+app/geckodriver.log
